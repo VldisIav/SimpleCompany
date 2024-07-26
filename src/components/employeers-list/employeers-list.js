@@ -8,6 +8,8 @@ const EmployeersList = () => {
             <EmployeersListItem/>
             <EmployeersListItem/>
             <EmployeersListItem/>
+            <EmployeersListItem/>
+            <EmployeersListItem/>
         </ul>
     )
    
